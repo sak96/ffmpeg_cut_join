@@ -1,0 +1,11 @@
+{
+"input": "input.mp4",
+"output":"output.mp4",
+"intervals" : 
+	[
+		"00:00:00-00:00:04,
+		"00:0:19-0:24"
+	],
+"speed" :"1"
+}
+ 
